@@ -28,9 +28,9 @@ Using this work-flow has several advantages:
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Requisites
-The list of pre-requisites is quite small, and you only need to fit them once
-* A [Github](https://github.com) account
-* A [Travis-ci](https://travis-ci.org/ "go to travis site") account
+La liste des prérequis est assez courte, et vous avez besoin des les réaliser une seule fois :
+* Un compte [Github](https://github.com)
+* Un compte [Travis-ci](https://travis-ci.org/ "go to travis site")
 
 # First time setup
 This are the steps required for the first time setup. Once you have completed all the steps listed here for the first time it will be much faster to just add new wikis.
