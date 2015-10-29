@@ -32,14 +32,16 @@ La liste des prérequis est assez courte, et vous avez besoin des les réaliser 
 * Un compte [Github](https://github.com)
 * Un compte [Travis-ci](https://travis-ci.org/ "go to travis site")
 
-# First time setup
-This are the steps required for the first time setup. Once you have completed all the steps listed here for the first time it will be much faster to just add new wikis.
-## Github setup
-1. We have to create a `Personal access token` to allow our publish scripts to push to our github account. This is only needed on the first time setup. Go to [Github's tokens management page](https://github.com/settings/tokens)
-2. Create a new token clicking on `Generate new token`
-3. Provide a meaningful token description. **This is very important** because it will be the only clue you will have to identify the token usage.
-4. Make sure `repo` and `public_repo` options are selected
-5. Click on `Generate token`. Here is an overview of this step:
+# Première configuration 
+Voici les étapes nécessaire pour la première configuration. 
+Une fois faite, il sera très rapide d'ajouter un nouveau wiki.
+
+## Configuration de Github
+1. Nous devons créer un jeton `Personal access token` pour autoriser nos script à publier sur notre compte github. C'est nécessaire seulement la première fois. Aller à la page de gestion des jetons :  [Github's tokens management page](https://github.com/settings/tokens)
+2. Créer un nouveau jeton en cliquant sur `Generate new token`
+3. Donner une description significative au jeton. C'est **très important** car elle sera la seule indication pour vous permttre d'identifier l'utilité du jeton.
+4. Assurez-vous que les options `repo` et `public_repo` options sont sélectionnées.
+5. Cliquez sur `Generate token`. Voici à quoi ressemble cette étape :
 ![Generate token](/../screenshots/github-token.png?raw=true)
 6. Github will generate an unique token. **Take note of it now because you will not have any other opportinity!!**
 
